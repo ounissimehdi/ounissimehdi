@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi Ounissi</h1>
-<h3 align="center">PhD Student -Sorbonne University- at Paris Brain Institute (ICM)</h3>
+<h3 align="center">PhD Student -Sorbonne Université-</h3>
+<h3 align="center">Paris Brain Institute (INSERM, CNRS, Sorbonne Univeristé, AP-HP), INRIA "ARAMIS Lab"</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ounissimehdi&label=Profile%20views&color=0e75b6&style=flat" alt="ounissimehdi" /> </p>
 
