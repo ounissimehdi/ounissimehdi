@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ounissimehdi.github.io/ounissimehdi//sitemap.xml
+Sitemap: https://ounissimehdi.github.io/# the base hostname & protocol for your siteounissimehdi//sitemap.xml
