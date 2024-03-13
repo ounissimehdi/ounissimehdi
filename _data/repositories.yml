@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ounissimehdi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ounissimehdi/PhagoStat
+  - ounissimehdi/Point2Cell
+  - ounissimehdi/WSI-OPT-registration
+
