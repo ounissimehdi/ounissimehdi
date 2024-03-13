@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ounissimehdi.github.io/sitemap.xml
+Sitemap: https://ounissimehdi.github.ioounissimehdi//sitemap.xml
